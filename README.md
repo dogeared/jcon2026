@@ -1,7 +1,7 @@
 ## Kicking JavaScript to the Curb with Vaadin
 ## JCON 2026
 
-[Slides](Kicking JavaScript to the Curb with Vaadin - JCON 2026 - v1.1.pdf)
+[Slides](Kicking%20JavaScript%20to%20the%20Curb%20with%20Vaadin%20-%20JCON%202026%20-%20v1.1.pdf)
 
 ### Resources
 
